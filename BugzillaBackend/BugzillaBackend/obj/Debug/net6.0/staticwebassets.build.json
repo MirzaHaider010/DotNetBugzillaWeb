@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cFoF77wdp0ETRaVqeQi/uiebnS0tbbEN3gEeDsOJeGc=",
+  "Source": "BugzillaBackend",
+  "BasePath": "_content/BugzillaBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
